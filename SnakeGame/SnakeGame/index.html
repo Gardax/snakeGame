@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta charset="utf-8" />
+        <link href="kendo/styles/kendo.mobile.all.min.css" rel="stylesheet" />
+        <link href="styles/main.css" rel="stylesheet" />
+        
+       
+        <script src="cordova.js"></script>
+        <script src="kendo/js/jquery.min.js"></script>
+        <script src="kendo/js/kendo.mobile.min.js"></script>
+
+         <script src="scripts/lib/everlive.all.min.js"></script>
+        <script src="scripts/app.js"></script>
+        <script src="scripts/app/topPlayers.js"></script>
+
+    </head>
+    <body>
+        <div id="menu-view" data-id="menu-view" data-role="view"
+             data-layout="main-layout" data-title="Menu">
+            
+            <div id="playButtton"><a href="Views/game.html" class="menuButton">
+                                      <img src="images/play.png" height="100"/>
+                                  </a></div>
+            <br>
+            <a data-role="button" class="menuButton" href="Views/topPlayers.html">Top players</a>
+            <br>
+            <a data-role="button" class="menuButton" id="quitButton">Quit</a>
+        </div>
+
+        <div data-role="layout" id="main-layout" data-id="main-layout">
+            <header data-role="header">
+                <div data-role="navbar">
+                    <span data-role="view-title"></span>
+                </div>
+            </header>
+            <footer data-role="footer">
+                <div data-role="tabstrip">
+                    <a href="#menu-view" data-icon="home">Menu</a>
+                    <a href="Views/about.html" data-icon="info">About</a>
+                </div>
+            </footer>
+        </div>
+
+        
+    </body>
+</html>
