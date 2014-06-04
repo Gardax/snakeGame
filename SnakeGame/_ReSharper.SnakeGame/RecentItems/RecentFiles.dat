@@ -4,22 +4,22 @@
     <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:kendo/d:js/f:kendo.mobile.min.js" caret="180500" fromTop="16" />
     <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:kendo/d:styles/f:kendo.mobile.all.min.css" caret="628" fromTop="11" />
     <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:game/f:food.js" caret="750" fromTop="20" />
-    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:game/f:snake.js" caret="2672" fromTop="21" />
-    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:Views/f:game.html" caret="749" fromTop="22" />
-    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:app/f:camera.js" caret="1919" fromTop="62" />
-    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:Views/f:gameOver.html" caret="248" fromTop="5" />
     <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:styles/f:main.css" caret="313" fromTop="22" />
-    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:app/f:gameOver.js" caret="257" fromTop="10" />
-    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:game/f:game.js" caret="207" fromTop="6" />
     <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/f:app.js" caret="669" fromTop="21" />
     <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:game/f:init.js" caret="769" fromTop="19" />
-    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:app/f:share.js" caret="317" fromTop="5" />
     <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:Views/f:share.html" caret="433" fromTop="9" />
-    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:Views/f:about.html" caret="156" fromTop="2" />
-    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/f:index.html" caret="481" fromTop="13" />
     <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:lib/f:everlive.all.min.js" caret="0" fromTop="0" />
-    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:Views/f:topPlayers.html" caret="238" fromTop="5" />
-    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:app/f:topPlayers.js" caret="1272" fromTop="9" />
+    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:game/f:game.js" caret="0" fromTop="0" />
+    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:game/f:snake.js" caret="1464" fromTop="33" />
+    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:Views/f:gameOver.html" caret="0" fromTop="0" />
+    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:Views/f:game.html" caret="749" fromTop="22" />
+    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/f:index.html" caret="1176" fromTop="19" />
+    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:Views/f:about.html" caret="140" fromTop="2" />
+    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:Views/f:topPlayers.html" caret="137" fromTop="2" />
+    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:app/f:camera.js" caret="0" fromTop="0" />
+    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:app/f:topPlayers.js" caret="1786" fromTop="25" />
+    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:app/f:gameOver.js" caret="0" fromTop="0" />
+    <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:app/f:share.js" caret="1245" fromTop="22" />
   </RecentFiles>
   <RecentEdits>
     <File id="78F91EB3-103B-42C6-BC88-5459C43F45A4/d:scripts/d:game/f:food.js" caret="750" fromTop="20" />
